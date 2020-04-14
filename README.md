@@ -1,7 +1,7 @@
 # TkinterApp
 An age calculator app 
 
-**Intructions: **
+## Intructions:
 
 * Install Python 3 and Pillow
 * Clone the repo
